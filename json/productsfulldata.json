@@ -1,0 +1,7 @@
+{
+	"products":[{"name":"Tshirt","price":1000,"available":"yes"},
+        {"name":"purse","price":2000,"available":"No"},
+        {"name":"sandal","price":4000,"available":"yes"}],
+	"brand":"Zara",
+	"delivery":["Cash on delivery","Card on delivery"]
+}  

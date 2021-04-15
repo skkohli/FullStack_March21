@@ -1,0 +1,10 @@
+{
+    "name":"jatin",
+    "location":"Bangalore",
+    "hobbies": [ "reading", "Writting" ],
+    "personalinfo": {
+        "age": 22,
+        "bankacc": 12345,
+        "pan" : "abcdef123"
+    }
+}

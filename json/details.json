@@ -1,0 +1,31 @@
+[{
+    "name":"jatin",
+    "location":"Chennai",
+    "hobbies": [ "reading", "Writting" ],
+    "personalinfo": {
+        "age": 22,
+        "bankacc": 12345,
+        "pan" : "abcdef123"
+    }
+ },
+ {
+    "name":"Kashyap",
+    "location":"Chennai",
+    "hobbies": [ "reading","cricket", "Writting" ],
+    "personalinfo": {
+        "age": 24,
+        "bankacc": 1235445,
+        "pan" : "abcdef123"
+    }
+},
+{
+    "name":"Pooooo",
+    "location":"Bidreee",
+    "hobbies": [ "reading","nothing", "Writting" ],
+    "personalinfo": {
+        "age": 26,
+        "bankacc": 12789345,
+        "pan" : "abcASDFG23"
+    }
+}
+]
